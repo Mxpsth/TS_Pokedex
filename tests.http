@@ -1,0 +1,17 @@
+GET https://pokeapi.co/api/v2/location-area
+
+###
+
+GET https://pokeapi.co/api/v2/location-area?offset=0&limit=20
+
+###
+
+GET https://pokeapi.co/api/v2/location-area/1
+
+###
+
+GET https://pokeapi.co/api/v2/location/oreburgh-mine-1f
+
+###
+
+GET https://pokeapi.co/api/v2/pokemon/pikachu
